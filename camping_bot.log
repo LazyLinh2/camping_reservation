@@ -1,0 +1,1446 @@
+2025-08-19 20:02:09,112 - INFO - ====== WebDriver manager ======
+2025-08-19 20:02:10,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:02:10,962 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:02:11,390 - INFO - There is no [win64] chromedriver "139.0.7258.138" for browser google-chrome "139.0.7258" in cache
+2025-08-19 20:02:11,390 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:02:12,387 - INFO - WebDriver version 139.0.7258.138 selected
+2025-08-19 20:02:12,392 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win32/chromedriver-win32.zip
+2025-08-19 20:02:12,392 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win32/chromedriver-win32.zip
+2025-08-19 20:02:12,828 - INFO - Driver downloading response is 200
+2025-08-19 20:02:12,933 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:02:15,303 - INFO - Driver has been saved in cache [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138]
+2025-08-19 20:02:21,067 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:02:21,067 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:02:21,067 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:02:32,012 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:02:33,175 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:02:34,292 - ERROR - Login error: Message: element not interactable
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3dc0]
+	(No symbol) [0x0xfedb4b]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:02:34,292 - ERROR - Failed to login. Exiting.
+2025-08-19 20:02:36,501 - INFO - Bot cleanup completed
+2025-08-19 20:02:48,606 - INFO - ====== WebDriver manager ======
+2025-08-19 20:02:49,812 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:02:50,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:02:51,117 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:02:52,929 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:02:52,929 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:02:52,930 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:03:03,104 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:03:04,249 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:03:05,382 - ERROR - Login error: Message: element not interactable
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3dc0]
+	(No symbol) [0x0xfedb4b]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:03:05,383 - ERROR - Failed to login. Exiting.
+2025-08-19 20:03:07,610 - INFO - Bot cleanup completed
+2025-08-19 20:03:43,903 - INFO - ====== WebDriver manager ======
+2025-08-19 20:03:45,099 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:03:45,544 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:03:45,972 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:03:48,078 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:03:48,078 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:03:48,079 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:03:58,040 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:03:59,200 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:04:00,330 - ERROR - Login error: Message: element not interactable
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3dc0]
+	(No symbol) [0x0xfedb4b]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:04:00,331 - ERROR - Failed to login. Exiting.
+2025-08-19 20:04:02,525 - INFO - Bot cleanup completed
+2025-08-19 20:11:04,538 - INFO - ====== WebDriver manager ======
+2025-08-19 20:11:05,807 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:11:06,273 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:11:06,712 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:11:08,946 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:11:08,946 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:11:08,946 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:11:18,958 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:11:20,113 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:11:51,320 - ERROR - Login error: Message: 
+
+2025-08-19 20:11:51,321 - ERROR - Failed to login. Exiting.
+2025-08-19 20:11:53,545 - INFO - Bot cleanup completed
+2025-08-19 20:13:21,802 - INFO - ====== WebDriver manager ======
+2025-08-19 20:13:23,053 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:13:23,537 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:13:23,979 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:13:26,177 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:13:26,177 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:13:26,177 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:13:36,976 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:13:38,138 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:14:09,676 - ERROR - Login error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3f63]
+	(No symbol) [0x0xfec99e]
+	(No symbol) [0x0xfecd3b]
+	(No symbol) [0x0x10353d2]
+	(No symbol) [0x0x1011524]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:14:09,677 - ERROR - Failed to login. Exiting.
+2025-08-19 20:14:11,890 - INFO - Bot cleanup completed
+2025-08-19 20:18:21,489 - INFO - ====== WebDriver manager ======
+2025-08-19 20:18:22,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:18:23,178 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:18:23,641 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:18:25,811 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:18:25,811 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:18:25,811 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:18:38,006 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:18:39,127 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:18:40,246 - ERROR - Login error: Message: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3f63]
+	(No symbol) [0x0xfaa750]
+	(No symbol) [0x0xfaca7a]
+	(No symbol) [0x0xfacaf7]
+	(No symbol) [0x0xfec234]
+	(No symbol) [0x0xfecd3b]
+	(No symbol) [0x0x10353d2]
+	(No symbol) [0x0x1011524]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:18:40,247 - ERROR - Failed to login. Exiting.
+2025-08-19 20:18:42,445 - INFO - Bot cleanup completed
+2025-08-19 20:33:28,429 - INFO - ====== WebDriver manager ======
+2025-08-19 20:33:29,861 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:33:30,371 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:33:30,815 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:33:33,179 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:33:33,179 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:33:33,179 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:33:43,439 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:33:44,595 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:33:55,863 - INFO - Found login button using selector: ('xpath', "//span[contains(text(), 'Log In')]")
+2025-08-19 20:33:56,952 - ERROR - Login error: Message: element click intercepted: Element <span class="sarsa-button-content">...</span> is not clickable at point (1112, 209). Other element would receive the click: <div class="rec-overlay-base rec-overlay-after-open">...</div>
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3f63]
+	(No symbol) [0x0xff2ce0]
+	(No symbol) [0x0xff109a]
+	(No symbol) [0x0xfeebf2]
+	(No symbol) [0x0xfedee1]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:33:56,952 - ERROR - Failed to login. Exiting.
+2025-08-19 20:33:59,151 - INFO - Bot cleanup completed
+2025-08-19 20:35:16,913 - INFO - ====== WebDriver manager ======
+2025-08-19 20:35:18,171 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:35:18,640 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:35:19,087 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:35:21,228 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:35:21,229 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:35:21,229 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:35:31,090 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:35:32,281 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:35:43,646 - INFO - Found login button using selector: ('xpath', "//span[contains(text(), 'Log In')]")
+2025-08-19 20:35:44,695 - ERROR - Login error: Message: element click intercepted: Element <span class="sarsa-button-content">...</span> is not clickable at point (1112, 209). Other element would receive the click: <div class="rec-overlay-base rec-overlay-after-open">...</div>
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3f63]
+	(No symbol) [0x0xff2ce0]
+	(No symbol) [0x0xff109a]
+	(No symbol) [0x0xfeebf2]
+	(No symbol) [0x0xfedee1]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:35:44,695 - ERROR - Failed to login. Exiting.
+2025-08-19 20:35:46,874 - INFO - Bot cleanup completed
+2025-08-19 20:40:42,823 - INFO - ====== WebDriver manager ======
+2025-08-19 20:40:44,266 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:40:44,834 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:40:45,262 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:40:47,639 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:40:47,640 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:40:47,640 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:40:58,346 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:40:59,493 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:41:00,630 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 20:41:05,713 - INFO - [32mLogin successful![0m
+2025-08-19 20:41:05,714 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 20:41:05,714 - INFO - Checking availability for Fairholme...
+2025-08-19 20:41:05,714 - INFO - Navigating to Fairholme...
+2025-08-19 20:41:11,265 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:41:14,328 - INFO - Found reserve button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-19 20:41:15,390 - ERROR - Error clicking reserve button: Message: element click intercepted: Element <button data-component="Button" type="button" disabled="" class="sarsa-button sarsa-button-primary sarsa-button-md availability-page-book-now-button-tracker availability-grid-book-now-button-tracker desktop sarsa-button-disabled" data-ga-tracking-id="922647169260">...</button> is not clickable at point (726, 1241). Other element would receive the click: <div class="camp-sortable-inner-wrap">...</div>
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3f63]
+	(No symbol) [0x0xff2ce0]
+	(No symbol) [0x0xff109a]
+	(No symbol) [0x0xfeebf2]
+	(No symbol) [0x0xfedee1]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:41:15,391 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:41:29,713 - INFO - Bot stopped by user
+2025-08-19 20:41:29,716 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/5fba6ed62364bd25406cb28f7cec498d
+2025-08-19 20:41:33,760 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000153C818EC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fba6ed62364bd25406cb28f7cec498d
+2025-08-19 20:41:37,782 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000153C818F110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fba6ed62364bd25406cb28f7cec498d
+2025-08-19 20:41:41,817 - INFO - Bot cleanup completed
+2025-08-19 20:44:23,905 - INFO - ====== WebDriver manager ======
+2025-08-19 20:44:25,143 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:44:25,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:44:26,066 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:44:28,288 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:44:28,288 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:44:28,289 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:44:38,423 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:44:39,589 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:44:40,708 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 20:44:45,794 - INFO - [32mLogin successful![0m
+2025-08-19 20:44:45,794 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 20:44:45,794 - INFO - Checking availability for Fairholme...
+2025-08-19 20:44:45,794 - INFO - Navigating to Fairholme...
+2025-08-19 20:44:50,999 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:44:54,065 - INFO - Found reserve button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-19 20:44:55,094 - ERROR - Error clicking reserve button: Message: element click intercepted: Element <button data-component="Button" type="button" disabled="" class="sarsa-button sarsa-button-primary sarsa-button-md availability-page-book-now-button-tracker availability-grid-book-now-button-tracker desktop sarsa-button-disabled" data-ga-tracking-id="922647169260">...</button> is not clickable at point (726, 1241). Other element would receive the click: <div class="camp-sortable-inner-wrap">...</div>
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3f63]
+	(No symbol) [0x0xff2ce0]
+	(No symbol) [0x0xff109a]
+	(No symbol) [0x0xfeebf2]
+	(No symbol) [0x0xfedee1]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 20:44:55,095 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:45:25,095 - INFO - Checking availability for Fairholme...
+2025-08-19 20:45:25,095 - INFO - Navigating to Fairholme...
+2025-08-19 20:45:29,969 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:45:33,040 - INFO - Found reserve button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-19 20:45:36,085 - INFO - Clicked reserve button
+2025-08-19 20:45:36,599 - INFO - Bot stopped by user
+2025-08-19 20:45:36,602 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/95b6d373dfc594d34a4cf2d291e9560c
+2025-08-19 20:45:40,615 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000233D4E9EC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95b6d373dfc594d34a4cf2d291e9560c
+2025-08-19 20:45:44,662 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000233D4E9F110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/95b6d373dfc594d34a4cf2d291e9560c
+2025-08-19 20:45:48,707 - INFO - Bot cleanup completed
+2025-08-19 20:47:55,882 - INFO - ====== WebDriver manager ======
+2025-08-19 20:47:57,100 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:47:57,572 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:47:58,016 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:48:00,280 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:48:00,280 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:48:00,281 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:48:10,559 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:48:11,716 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:48:12,842 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 20:48:17,924 - INFO - [32mLogin successful![0m
+2025-08-19 20:48:17,925 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 20:48:17,925 - INFO - Checking availability for Fairholme...
+2025-08-19 20:48:17,925 - INFO - Navigating to Fairholme...
+2025-08-19 20:48:23,187 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:48:26,381 - ERROR - Error selecting dates: 'CampingReservationBot' object has no attribute 'config'
+2025-08-19 20:48:26,381 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:48:56,382 - INFO - Checking availability for Fairholme...
+2025-08-19 20:48:56,382 - INFO - Navigating to Fairholme...
+2025-08-19 20:49:01,049 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:49:04,255 - ERROR - Error selecting dates: 'CampingReservationBot' object has no attribute 'config'
+2025-08-19 20:49:04,255 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:49:34,256 - INFO - Checking availability for Fairholme...
+2025-08-19 20:49:34,256 - INFO - Navigating to Fairholme...
+2025-08-19 20:49:38,704 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:49:41,828 - ERROR - Error selecting dates: 'CampingReservationBot' object has no attribute 'config'
+2025-08-19 20:49:41,828 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:50:11,829 - INFO - Checking availability for Fairholme...
+2025-08-19 20:50:11,829 - INFO - Navigating to Fairholme...
+2025-08-19 20:50:16,388 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:50:19,566 - ERROR - Error selecting dates: 'CampingReservationBot' object has no attribute 'config'
+2025-08-19 20:50:19,566 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:50:22,821 - INFO - Bot stopped by user
+2025-08-19 20:50:22,824 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/84cb7e9a915e7b8c0074288966d40f00
+2025-08-19 20:50:26,866 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C05A7EC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/84cb7e9a915e7b8c0074288966d40f00
+2025-08-19 20:50:30,917 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000021C05A7F110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/84cb7e9a915e7b8c0074288966d40f00
+2025-08-19 20:50:36,570 - INFO - ====== WebDriver manager ======
+2025-08-19 20:50:37,865 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:50:38,356 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:50:38,804 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:50:41,021 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:50:41,021 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:50:41,021 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:50:51,147 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:50:52,300 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:50:53,451 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 20:50:58,534 - INFO - [32mLogin successful![0m
+2025-08-19 20:50:58,534 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 20:50:58,535 - INFO - Checking availability for Fairholme...
+2025-08-19 20:50:58,535 - INFO - Navigating to Fairholme...
+2025-08-19 20:51:03,667 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:51:07,521 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:51:12,543 - INFO - Found 0 available sites
+2025-08-19 20:51:12,543 - INFO - [33mNo available sites found[0m
+2025-08-19 20:51:12,543 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:51:42,544 - INFO - Checking availability for Fairholme...
+2025-08-19 20:51:42,544 - INFO - Navigating to Fairholme...
+2025-08-19 20:51:47,400 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:51:52,278 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:51:57,291 - INFO - Found 0 available sites
+2025-08-19 20:51:57,291 - INFO - [33mNo available sites found[0m
+2025-08-19 20:51:57,291 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:52:27,292 - INFO - Checking availability for Fairholme...
+2025-08-19 20:52:27,292 - INFO - Navigating to Fairholme...
+2025-08-19 20:52:31,797 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:52:37,241 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:52:42,265 - INFO - Found 0 available sites
+2025-08-19 20:52:42,265 - INFO - [33mNo available sites found[0m
+2025-08-19 20:52:42,265 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:53:12,266 - INFO - Checking availability for Fairholme...
+2025-08-19 20:53:12,266 - INFO - Navigating to Fairholme...
+2025-08-19 20:53:16,971 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:53:22,076 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:53:27,098 - INFO - Found 0 available sites
+2025-08-19 20:53:27,099 - INFO - [33mNo available sites found[0m
+2025-08-19 20:53:27,099 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:53:56,601 - INFO - Bot stopped by user
+2025-08-19 20:53:56,604 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/0fd541d86cac78a871f8fefb09e68957
+2025-08-19 20:54:00,644 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023C51F6EC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0fd541d86cac78a871f8fefb09e68957
+2025-08-19 20:54:04,664 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023C51F6F110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0fd541d86cac78a871f8fefb09e68957
+2025-08-19 20:54:08,716 - INFO - Bot cleanup completed
+2025-08-19 20:54:29,983 - INFO - ====== WebDriver manager ======
+2025-08-19 20:54:31,261 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:54:31,739 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:54:32,174 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:54:34,392 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:54:34,392 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:54:34,392 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:54:44,438 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:54:45,589 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:54:46,724 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 20:54:51,807 - INFO - [32mLogin successful![0m
+2025-08-19 20:54:51,807 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 20:54:51,807 - INFO - Checking availability for Fairholme...
+2025-08-19 20:54:51,807 - INFO - Navigating to Fairholme...
+2025-08-19 20:54:56,962 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:55:02,795 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:55:07,815 - INFO - Found 0 available sites
+2025-08-19 20:55:07,815 - INFO - [33mNo available sites found[0m
+2025-08-19 20:55:07,815 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:55:37,816 - INFO - Checking availability for Fairholme...
+2025-08-19 20:55:37,816 - INFO - Navigating to Fairholme...
+2025-08-19 20:55:42,439 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:55:48,818 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:55:51,352 - INFO - Bot stopped by user
+2025-08-19 20:55:51,357 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/27284ddf4e5f20d13ce345b8c11e9ac2
+2025-08-19 20:55:55,403 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161694EF750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27284ddf4e5f20d13ce345b8c11e9ac2
+2025-08-19 20:55:59,440 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000161694EF250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/27284ddf4e5f20d13ce345b8c11e9ac2
+2025-08-19 20:56:03,477 - INFO - Bot cleanup completed
+2025-08-19 20:57:08,209 - INFO - ====== WebDriver manager ======
+2025-08-19 20:57:09,453 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:57:09,916 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:57:10,369 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:57:12,606 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:57:12,606 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:57:12,606 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:57:22,434 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:57:23,586 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:57:24,758 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 20:57:29,841 - INFO - [32mLogin successful![0m
+2025-08-19 20:57:29,841 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 20:57:29,841 - INFO - Checking availability for Fairholme...
+2025-08-19 20:57:29,841 - INFO - Navigating to Fairholme...
+2025-08-19 20:57:35,073 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:57:40,970 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:57:50,993 - INFO - Found 0 available sites
+2025-08-19 20:57:50,993 - INFO - [33mNo available sites found[0m
+2025-08-19 20:57:50,993 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:58:20,994 - INFO - Checking availability for Fairholme...
+2025-08-19 20:58:20,994 - INFO - Navigating to Fairholme...
+2025-08-19 20:58:25,733 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:58:32,522 - INFO - Selected dates: ('09/15/2025',) to 09/20/2025
+2025-08-19 20:58:42,545 - INFO - Found 0 available sites
+2025-08-19 20:58:42,546 - INFO - [33mNo available sites found[0m
+2025-08-19 20:58:42,546 - INFO - Waiting 30 seconds before next check...
+2025-08-19 20:58:59,182 - INFO - Bot stopped by user
+2025-08-19 20:58:59,185 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/1a13f438a61ccec9358b9ce953401386
+2025-08-19 20:59:03,208 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C30367EC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1a13f438a61ccec9358b9ce953401386
+2025-08-19 20:59:07,228 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C30367F110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/1a13f438a61ccec9358b9ce953401386
+2025-08-19 20:59:11,248 - INFO - Bot cleanup completed
+2025-08-19 20:59:18,255 - INFO - ====== WebDriver manager ======
+2025-08-19 20:59:19,518 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:59:19,998 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 20:59:20,435 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 20:59:22,683 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 20:59:22,683 - INFO - Logging in to Recreation.gov...
+2025-08-19 20:59:22,683 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 20:59:33,165 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 20:59:34,322 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 20:59:35,436 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 20:59:40,516 - INFO - [32mLogin successful![0m
+2025-08-19 20:59:40,516 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 20:59:40,516 - INFO - Checking availability for Fairholme...
+2025-08-19 20:59:40,516 - INFO - Navigating to Fairholme...
+2025-08-19 20:59:45,651 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 20:59:51,309 - INFO - Selected dates: ('09/01/2025',) to 09/14/2025
+2025-08-19 21:00:01,328 - INFO - Found 0 available sites
+2025-08-19 21:00:01,329 - INFO - [33mNo available sites found[0m
+2025-08-19 21:00:01,329 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:00:31,329 - INFO - Checking availability for Fairholme...
+2025-08-19 21:00:31,330 - INFO - Navigating to Fairholme...
+2025-08-19 21:00:36,064 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 21:00:36,923 - INFO - Bot stopped by user
+2025-08-19 21:00:36,926 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/6308178e3baeb8c9efe90cf3fab5269d
+2025-08-19 21:00:40,972 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C9702AF750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6308178e3baeb8c9efe90cf3fab5269d
+2025-08-19 21:00:44,992 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C9702AF250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6308178e3baeb8c9efe90cf3fab5269d
+2025-08-19 21:00:49,029 - INFO - Bot cleanup completed
+2025-08-19 21:01:01,440 - INFO - ====== WebDriver manager ======
+2025-08-19 21:01:02,698 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 21:01:03,158 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 21:01:03,605 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 21:01:05,808 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 21:01:05,808 - INFO - Logging in to Recreation.gov...
+2025-08-19 21:01:05,808 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 21:01:16,009 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 21:01:17,167 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 21:01:18,304 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 21:01:23,388 - INFO - [32mLogin successful![0m
+2025-08-19 21:01:23,388 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 21:01:23,388 - INFO - Checking availability for Fairholme...
+2025-08-19 21:01:23,389 - INFO - Navigating to Fairholme...
+2025-08-19 21:01:28,501 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 21:01:34,418 - INFO - Selected dates: ('09/11/2025',) to 09/14/2025
+2025-08-19 21:01:44,438 - INFO - Found 0 available sites
+2025-08-19 21:01:44,439 - INFO - [33mNo available sites found[0m
+2025-08-19 21:01:44,439 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:02:14,439 - INFO - Checking availability for Fairholme...
+2025-08-19 21:02:14,439 - INFO - Navigating to Fairholme...
+2025-08-19 21:02:19,151 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 21:02:25,940 - INFO - Selected dates: ('09/11/2025',) to 09/14/2025
+2025-08-19 21:02:29,092 - INFO - Bot stopped by user
+2025-08-19 21:02:29,095 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/cdab180c32f869f6098a1410202254f9
+2025-08-19 21:02:33,149 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C1738DF750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdab180c32f869f6098a1410202254f9
+2025-08-19 21:02:37,202 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C1738DF250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cdab180c32f869f6098a1410202254f9
+2025-08-19 21:02:41,271 - INFO - Bot cleanup completed
+2025-08-19 21:04:05,168 - INFO - ====== WebDriver manager ======
+2025-08-19 21:04:06,451 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 21:04:06,928 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 21:04:07,365 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 21:04:09,556 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 21:04:09,556 - INFO - Logging in to Recreation.gov...
+2025-08-19 21:04:09,556 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 21:04:20,370 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 21:04:21,498 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 21:04:22,647 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 21:04:27,732 - INFO - [32mLogin successful![0m
+2025-08-19 21:04:27,733 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 21:04:27,733 - INFO - Checking availability for Fairholme...
+2025-08-19 21:04:27,733 - INFO - Navigating to Fairholme...
+2025-08-19 21:04:32,702 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 21:04:38,536 - INFO - Selected dates: ('09/11/2025',) to 09/14/2025
+2025-08-19 21:04:48,558 - INFO - Found 0 available sites
+2025-08-19 21:04:48,558 - INFO - [33mNo available sites found[0m
+2025-08-19 21:04:48,558 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:05:18,559 - INFO - Checking availability for Fairholme...
+2025-08-19 21:05:18,559 - INFO - Navigating to Fairholme...
+2025-08-19 21:05:23,151 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 21:05:29,894 - INFO - Selected dates: ('09/11/2025',) to 09/14/2025
+2025-08-19 21:05:36,780 - INFO - Bot stopped by user
+2025-08-19 21:05:36,783 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/d57275fd4d6bf1cf1ab7a42f9089ced8
+2025-08-19 21:05:40,820 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029AA85FEC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d57275fd4d6bf1cf1ab7a42f9089ced8
+2025-08-19 21:05:44,873 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029AA85FF110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d57275fd4d6bf1cf1ab7a42f9089ced8
+2025-08-19 21:05:48,927 - INFO - Bot cleanup completed
+2025-08-19 21:06:42,664 - INFO - ====== WebDriver manager ======
+2025-08-19 21:06:43,898 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 21:06:44,371 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-19 21:06:44,836 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-19 21:06:47,040 - INFO - Starting camping reservation bot for Fairholme
+2025-08-19 21:06:47,041 - INFO - Logging in to Recreation.gov...
+2025-08-19 21:06:47,041 - INFO - Attempting to login to Recreation.gov...
+2025-08-19 21:06:56,940 - INFO - Found username field using selector: ('id', 'email')
+2025-08-19 21:06:58,089 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-19 21:06:59,216 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-19 21:07:04,299 - INFO - [32mLogin successful![0m
+2025-08-19 21:07:04,299 - INFO - [32mLogin successful! Starting availability checks...[0m
+2025-08-19 21:07:04,299 - INFO - Checking availability for Fairholme...
+2025-08-19 21:07:04,300 - INFO - Navigating to Fairholme...
+2025-08-19 21:07:09,415 - INFO - [32mSuccessfully navigated to campground page[0m
+2025-08-19 21:07:15,257 - INFO - Selected dates: ('09/11/2025',) to 09/14/2025
+2025-08-19 21:07:25,277 - INFO - Found 0 available sites
+2025-08-19 21:07:25,278 - INFO - [33mNo available sites found[0m
+2025-08-19 21:07:25,278 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:08:00,294 - INFO - Found 0 available sites
+2025-08-19 21:08:00,294 - INFO - [33mNo available sites found[0m
+2025-08-19 21:08:00,295 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:08:35,378 - INFO - Found 0 available sites
+2025-08-19 21:08:35,378 - INFO - [33mNo available sites found[0m
+2025-08-19 21:08:35,378 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:09:10,392 - INFO - Found 0 available sites
+2025-08-19 21:09:10,392 - INFO - [33mNo available sites found[0m
+2025-08-19 21:09:10,392 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:09:45,409 - INFO - Found 0 available sites
+2025-08-19 21:09:45,410 - INFO - [33mNo available sites found[0m
+2025-08-19 21:09:45,410 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:10:20,424 - INFO - Found 42 available sites
+2025-08-19 21:10:20,424 - INFO - [32mFound 42 available sites![0m
+2025-08-19 21:10:20,710 - INFO - No preferred sites found, selecting first available
+2025-08-19 21:10:20,727 - ERROR - Error selecting site: Message: element not interactable
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x11affc3+65331]
+	GetHandleVerifier [0x0x11b0004+65396]
+	(No symbol) [0x0xfa3dc0]
+	(No symbol) [0x0xfedb4b]
+	(No symbol) [0x0xfe2645]
+	(No symbol) [0x0x10114dc]
+	(No symbol) [0x0xfe20d4]
+	(No symbol) [0x0x1011754]
+	(No symbol) [0x0x1032bcb]
+	(No symbol) [0x0x10112d6]
+	(No symbol) [0x0xfe0910]
+	(No symbol) [0x0xfe1784]
+	GetHandleVerifier [0x0x13f38b3+2439203]
+	GetHandleVerifier [0x0x13eeae2+2419282]
+	GetHandleVerifier [0x0x11d712a+225434]
+	GetHandleVerifier [0x0x11c6e08+159096]
+	GetHandleVerifier [0x0x11cdd5d+187597]
+	GetHandleVerifier [0x0x11b7ad8+96840]
+	GetHandleVerifier [0x0x11b7c62+97234]
+	GetHandleVerifier [0x0x11a277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-19 21:10:20,728 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:10:55,746 - INFO - Found 0 available sites
+2025-08-19 21:10:55,746 - INFO - [33mNo available sites found[0m
+2025-08-19 21:10:55,747 - INFO - Waiting 30 seconds before next check...
+2025-08-19 21:11:02,498 - INFO - Bot stopped by user
+2025-08-19 21:11:02,501 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/ef2ec10000849ee651408a6a437d7655
+2025-08-19 21:11:06,534 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C9C6A7EC10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef2ec10000849ee651408a6a437d7655
+2025-08-19 21:11:10,542 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C9C6A7F110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef2ec10000849ee651408a6a437d7655
+2025-08-19 21:11:14,578 - INFO - Bot cleanup completed
+2025-08-20 08:05:46,674 - INFO - ====== WebDriver manager ======
+2025-08-20 08:05:48,157 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:05:48,670 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:05:49,088 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:05:50,082 - INFO - WebDriver version 139.0.7258.138 selected
+2025-08-20 08:05:50,088 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win32/chromedriver-win32.zip
+2025-08-20 08:05:50,088 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/139.0.7258.138/win32/chromedriver-win32.zip
+2025-08-20 08:05:50,510 - INFO - Driver downloading response is 200
+2025-08-20 08:05:50,684 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:05:53,786 - INFO - Driver has been saved in cache [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138]
+2025-08-20 08:05:58,685 - INFO - Starting bot for Fairholme
+2025-08-20 08:05:58,685 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 08:06:15,377 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 08:06:16,522 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 08:06:17,650 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 08:06:22,737 - INFO - Login successful!
+2025-08-20 08:06:22,737 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 08:06:22,738 - INFO - Navigating to Fairholme...
+2025-08-20 08:06:27,723 - INFO - Successfully navigated to campground page
+2025-08-20 08:06:27,723 - INFO - Looking for available spots on the page...
+2025-08-20 08:06:30,800 - INFO - Found available spot: Aug 21, 2025 - Site 20 is available
+2025-08-20 08:06:34,137 - INFO - 
+============================================================
+2025-08-20 08:06:34,138 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 08:06:34,138 - INFO - ============================================================
+2025-08-20 08:06:34,138 - INFO - Site       Date         Details
+2025-08-20 08:06:34,138 - INFO - ------------------------------------------------------------
+2025-08-20 08:06:34,138 - INFO - 20         Aug 21, 2025 Aug 21, 2025 - Site 20 is available
+2025-08-20 08:06:34,138 - INFO - ============================================================
+2025-08-20 08:06:34,139 - INFO - Total available sites: 1
+2025-08-20 08:06:34,139 - INFO - [32mFound 1 available spots![0m
+2025-08-20 08:06:34,139 - INFO - Attempting to book Site 20 for Aug 21, 2025
+2025-08-20 08:06:40,303 - INFO - Successfully clicked on Site 20
+2025-08-20 08:06:40,303 - INFO - [32mSelected campsite, now adding to cart...[0m
+2025-08-20 08:06:50,478 - INFO - Found Add to Cart button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-20 08:06:53,564 - INFO - Clicked Add to Cart button
+2025-08-20 08:06:53,564 - INFO - [32mSuccessfully added campsite to cart! Stopping execution but keeping browser open...[0m
+2025-08-20 08:06:53,564 - INFO - [32mTask completed successfully! Browser will remain open.[0m
+2025-08-20 08:06:53,564 - INFO - You can now manually complete the checkout process.
+2025-08-20 08:19:11,477 - INFO - ====== WebDriver manager ======
+2025-08-20 08:19:13,075 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:19:13,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:19:14,026 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 08:19:16,340 - INFO - Starting bot for Fairholme
+2025-08-20 08:19:16,341 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 08:19:26,853 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 08:19:27,989 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 08:19:29,118 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 08:19:34,195 - INFO - Login successful!
+2025-08-20 08:19:34,196 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 08:19:34,196 - INFO - Navigating to Fairholme...
+2025-08-20 08:19:39,389 - INFO - Successfully navigated to campground page
+2025-08-20 08:19:39,390 - INFO - Looking for available spots on the page...
+2025-08-20 08:19:42,436 - INFO - Found available spot: Aug 21, 2025 - Site 20 is available
+2025-08-20 08:19:45,844 - INFO - 
+============================================================
+2025-08-20 08:19:45,844 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 08:19:45,844 - INFO - ============================================================
+2025-08-20 08:19:45,844 - INFO - Site       Date         Details
+2025-08-20 08:19:45,844 - INFO - ------------------------------------------------------------
+2025-08-20 08:19:45,844 - INFO - 20         Aug 21, 2025 Aug 21, 2025 - Site 20 is available
+2025-08-20 08:19:45,845 - INFO - ============================================================
+2025-08-20 08:19:45,845 - INFO - Total available sites: 1
+2025-08-20 08:19:45,845 - INFO - [32mFound 1 available spots![0m
+2025-08-20 08:19:45,845 - INFO - Attempting to book Site 20 for Aug 21, 2025
+2025-08-20 08:19:51,999 - INFO - Successfully clicked on Site 20
+2025-08-20 08:19:51,999 - INFO - [32mSelected campsite, now adding to cart...[0m
+2025-08-20 08:20:02,162 - INFO - Found Add to Cart button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-20 08:20:05,259 - INFO - Clicked Add to Cart button
+2025-08-20 08:20:05,260 - INFO - [32mSuccessfully added campsite to cart! Stopping execution but keeping browser open...[0m
+2025-08-20 08:20:05,260 - INFO - [32mTask completed successfully! Browser will remain open.[0m
+2025-08-20 08:20:05,260 - INFO - You can now manually complete the checkout process.
+2025-08-20 08:51:14,815 - INFO - ====== WebDriver manager ======
+2025-08-20 08:51:16,133 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:51:16,653 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:51:17,112 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 08:51:19,340 - INFO - Starting bot for Fairholme
+2025-08-20 08:51:19,340 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 08:51:29,540 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 08:51:30,723 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 08:51:31,874 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 08:51:36,964 - INFO - Login successful!
+2025-08-20 08:51:36,964 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 08:51:36,964 - INFO - Navigating to Fairholme...
+2025-08-20 08:51:41,564 - INFO - Successfully navigated to campground page
+2025-08-20 08:51:41,564 - INFO - Looking for available spots on the page...
+2025-08-20 08:51:48,433 - INFO - No available sites found for the target date
+2025-08-20 08:51:48,433 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:51:48,433 - INFO - Waiting 30 seconds...
+2025-08-20 08:52:18,433 - INFO - Looking for available spots on the page...
+2025-08-20 08:52:25,844 - INFO - No available sites found for the target date
+2025-08-20 08:52:25,844 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:52:25,844 - INFO - Waiting 30 seconds...
+2025-08-20 08:52:55,845 - INFO - Looking for available spots on the page...
+2025-08-20 08:53:03,145 - INFO - No available sites found for the target date
+2025-08-20 08:53:03,145 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:53:03,145 - INFO - Waiting 30 seconds...
+2025-08-20 08:53:33,146 - INFO - Looking for available spots on the page...
+2025-08-20 08:53:40,181 - INFO - No available sites found for the target date
+2025-08-20 08:53:40,181 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:53:40,181 - INFO - Waiting 30 seconds...
+2025-08-20 08:54:10,182 - INFO - Looking for available spots on the page...
+2025-08-20 08:54:17,494 - INFO - No available sites found for the target date
+2025-08-20 08:54:17,494 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:54:17,494 - INFO - Waiting 30 seconds...
+2025-08-20 08:54:47,495 - INFO - Looking for available spots on the page...
+2025-08-20 08:54:54,395 - INFO - No available sites found for the target date
+2025-08-20 08:54:54,396 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:54:54,396 - INFO - Waiting 30 seconds...
+2025-08-20 08:55:24,397 - INFO - Looking for available spots on the page...
+2025-08-20 08:55:31,205 - INFO - No available sites found for the target date
+2025-08-20 08:55:31,205 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:55:31,205 - INFO - Waiting 30 seconds...
+2025-08-20 08:56:01,206 - INFO - Looking for available spots on the page...
+2025-08-20 08:56:07,984 - INFO - No available sites found for the target date
+2025-08-20 08:56:07,985 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:56:07,985 - INFO - Waiting 30 seconds...
+2025-08-20 08:56:37,985 - INFO - Looking for available spots on the page...
+2025-08-20 08:56:45,402 - INFO - No available sites found for the target date
+2025-08-20 08:56:45,402 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:56:45,403 - INFO - Waiting 30 seconds...
+2025-08-20 08:57:04,843 - INFO - Stopped by user
+2025-08-20 08:57:04,846 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/ef9fc8a296101c0ff703c0cf17f4ba12
+2025-08-20 08:57:08,927 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9D6AFDA90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef9fc8a296101c0ff703c0cf17f4ba12
+2025-08-20 08:57:13,000 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B9D6AFDD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/ef9fc8a296101c0ff703c0cf17f4ba12
+2025-08-20 08:58:24,352 - INFO - ====== WebDriver manager ======
+2025-08-20 08:58:25,769 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:58:26,351 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 08:58:26,807 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 08:58:28,988 - INFO - Starting bot for Fairholme
+2025-08-20 08:58:28,988 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 08:58:39,122 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 08:58:40,294 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 08:58:41,439 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 08:58:46,532 - INFO - Login successful!
+2025-08-20 08:58:46,532 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 08:58:46,532 - INFO - Navigating to Fairholme...
+2025-08-20 08:58:51,313 - INFO - Successfully navigated to campground page
+2025-08-20 08:58:51,313 - INFO - Looking for available spots on the page...
+2025-08-20 08:59:00,607 - INFO - No available sites found for the target date
+2025-08-20 08:59:00,607 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 08:59:00,607 - INFO - Waiting 30 seconds...
+2025-08-20 08:59:10,589 - INFO - Stopped by user
+2025-08-20 08:59:10,593 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/b146b6808b33353ed20e47be9578fbfb
+2025-08-20 08:59:14,677 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C68198F890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b146b6808b33353ed20e47be9578fbfb
+2025-08-20 08:59:18,759 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C68198E210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b146b6808b33353ed20e47be9578fbfb
+2025-08-20 09:02:19,013 - INFO - ====== WebDriver manager ======
+2025-08-20 09:02:20,367 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:02:20,873 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:02:21,359 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 09:02:23,605 - INFO - Starting bot for Fairholme
+2025-08-20 09:02:23,605 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 09:02:33,775 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 09:02:34,956 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 09:02:36,103 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 09:02:41,193 - INFO - Login successful!
+2025-08-20 09:02:41,193 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 09:02:41,194 - INFO - Navigating to Fairholme...
+2025-08-20 09:02:46,574 - INFO - Successfully navigated to campground page
+2025-08-20 09:02:46,574 - INFO - Looking for available spots on the page...
+2025-08-20 09:02:54,350 - INFO - No available sites found for the target date
+2025-08-20 09:02:54,350 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 09:02:54,351 - INFO - Waiting 30 seconds...
+2025-08-20 09:03:24,351 - INFO - Looking for available spots on the page...
+2025-08-20 09:03:31,326 - INFO - No available sites found for the target date
+2025-08-20 09:03:31,326 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 09:03:31,327 - INFO - Waiting 30 seconds...
+2025-08-20 09:04:01,327 - INFO - Looking for available spots on the page...
+2025-08-20 09:04:04,329 - ERROR - Error finding available dates: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0x71ffc3+65331]
+	GetHandleVerifier [0x0x720004+65396]
+	(No symbol) [0x0x513f63]
+	(No symbol) [0x0x5038e0]
+	(No symbol) [0x0x521709]
+	(No symbol) [0x0x587e4c]
+	(No symbol) [0x0x5a24d9]
+	(No symbol) [0x0x5812d6]
+	(No symbol) [0x0x550910]
+	(No symbol) [0x0x551784]
+	GetHandleVerifier [0x0x9638b3+2439203]
+	GetHandleVerifier [0x0x95eae2+2419282]
+	GetHandleVerifier [0x0x74712a+225434]
+	GetHandleVerifier [0x0x736e08+159096]
+	GetHandleVerifier [0x0x73dd5d+187597]
+	GetHandleVerifier [0x0x727ad8+96840]
+	GetHandleVerifier [0x0x727c62+97234]
+	GetHandleVerifier [0x0x71277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-20 09:04:04,330 - INFO - [33mNo available spots found on the page[0m
+2025-08-20 09:04:04,330 - INFO - Waiting 30 seconds...
+2025-08-20 09:55:59,793 - INFO - ====== WebDriver manager ======
+2025-08-20 09:56:01,043 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:56:02,027 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:56:02,514 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 09:56:04,673 - INFO - Starting bot for Fairholme
+2025-08-20 09:56:04,673 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 09:56:14,766 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 09:56:15,933 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 09:56:17,045 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 09:56:22,125 - INFO - Login successful!
+2025-08-20 09:56:22,125 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 09:56:22,125 - INFO - Navigating to Fairholme...
+2025-08-20 09:56:27,215 - INFO - Successfully navigated to campground page
+2025-08-20 09:56:30,416 - ERROR - Error selecting dates: Message: invalid selector: Unable to locate an element with the xpath expression //[contains(@aria-label, '('August 11, 2025',)')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//[contains(@aria-label, '('August 11, 2025',)')]' is not a valid XPath expression.
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+	GetHandleVerifier [0x0x71ffc3+65331]
+	GetHandleVerifier [0x0x720004+65396]
+	(No symbol) [0x0x513f63]
+	(No symbol) [0x0x51a750]
+	(No symbol) [0x0x51ca7a]
+	(No symbol) [0x0x51caf7]
+	(No symbol) [0x0x55c234]
+	(No symbol) [0x0x55cd3b]
+	(No symbol) [0x0x5a53d2]
+	(No symbol) [0x0x581524]
+	(No symbol) [0x0x5a2bcb]
+	(No symbol) [0x0x5812d6]
+	(No symbol) [0x0x550910]
+	(No symbol) [0x0x551784]
+	GetHandleVerifier [0x0x9638b3+2439203]
+	GetHandleVerifier [0x0x95eae2+2419282]
+	GetHandleVerifier [0x0x74712a+225434]
+	GetHandleVerifier [0x0x736e08+159096]
+	GetHandleVerifier [0x0x73dd5d+187597]
+	GetHandleVerifier [0x0x727ad8+96840]
+	GetHandleVerifier [0x0x727c62+97234]
+	GetHandleVerifier [0x0x71277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-20 09:57:11,856 - INFO - ====== WebDriver manager ======
+2025-08-20 09:57:13,007 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:57:13,448 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:57:13,865 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 09:57:15,936 - INFO - Starting bot for Fairholme
+2025-08-20 09:57:15,936 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 09:57:25,922 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 09:57:27,117 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 09:57:28,230 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 09:57:33,307 - INFO - Login successful!
+2025-08-20 09:57:33,307 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 09:57:33,308 - INFO - Navigating to Fairholme...
+2025-08-20 09:57:38,284 - INFO - Successfully navigated to campground page
+2025-08-20 09:57:41,403 - ERROR - Error selecting dates: Message: invalid selector: Unable to locate an element with the xpath expression //[contains(@aria-label, 'August 11, 2025')] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//[contains(@aria-label, 'August 11, 2025')]' is not a valid XPath expression.
+  (Session info: chrome=139.0.7258.128); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+	GetHandleVerifier [0x0x71ffc3+65331]
+	GetHandleVerifier [0x0x720004+65396]
+	(No symbol) [0x0x513f63]
+	(No symbol) [0x0x51a750]
+	(No symbol) [0x0x51ca7a]
+	(No symbol) [0x0x51caf7]
+	(No symbol) [0x0x55c234]
+	(No symbol) [0x0x55cd3b]
+	(No symbol) [0x0x5a53d2]
+	(No symbol) [0x0x581524]
+	(No symbol) [0x0x5a2bcb]
+	(No symbol) [0x0x5812d6]
+	(No symbol) [0x0x550910]
+	(No symbol) [0x0x551784]
+	GetHandleVerifier [0x0x9638b3+2439203]
+	GetHandleVerifier [0x0x95eae2+2419282]
+	GetHandleVerifier [0x0x74712a+225434]
+	GetHandleVerifier [0x0x736e08+159096]
+	GetHandleVerifier [0x0x73dd5d+187597]
+	GetHandleVerifier [0x0x727ad8+96840]
+	GetHandleVerifier [0x0x727c62+97234]
+	GetHandleVerifier [0x0x71277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-20 09:58:24,695 - INFO - ====== WebDriver manager ======
+2025-08-20 09:58:25,842 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:58:26,296 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 09:58:26,683 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 09:58:28,707 - INFO - Starting bot for Fairholme
+2025-08-20 09:58:28,708 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 09:58:38,743 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 09:58:39,887 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 09:58:41,010 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 09:58:46,098 - INFO - Login successful!
+2025-08-20 09:58:46,098 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 09:58:46,099 - INFO - Navigating to Fairholme...
+2025-08-20 09:58:51,025 - INFO - Successfully navigated to campground page
+2025-08-20 09:59:24,704 - ERROR - Error selecting dates: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x71ffc3+65331]
+	GetHandleVerifier [0x0x720004+65396]
+	(No symbol) [0x0x513f63]
+	(No symbol) [0x0x55c99e]
+	(No symbol) [0x0x55cd3b]
+	(No symbol) [0x0x5a53d2]
+	(No symbol) [0x0x581524]
+	(No symbol) [0x0x5a2bcb]
+	(No symbol) [0x0x5812d6]
+	(No symbol) [0x0x550910]
+	(No symbol) [0x0x551784]
+	GetHandleVerifier [0x0x9638b3+2439203]
+	GetHandleVerifier [0x0x95eae2+2419282]
+	GetHandleVerifier [0x0x74712a+225434]
+	GetHandleVerifier [0x0x736e08+159096]
+	GetHandleVerifier [0x0x73dd5d+187597]
+	GetHandleVerifier [0x0x727ad8+96840]
+	GetHandleVerifier [0x0x727c62+97234]
+	GetHandleVerifier [0x0x71277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-20 10:02:54,889 - INFO - ====== WebDriver manager ======
+2025-08-20 10:02:56,120 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:02:56,617 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:02:57,016 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:02:58,967 - INFO - Starting bot for Fairholme
+2025-08-20 10:02:58,967 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:03:09,176 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:03:10,299 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:03:11,430 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:03:16,515 - INFO - Login successful!
+2025-08-20 10:03:16,515 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:03:16,515 - INFO - Navigating to Fairholme...
+2025-08-20 10:03:21,585 - INFO - Successfully navigated to campground page
+2025-08-20 10:03:54,843 - ERROR - Error selecting dates: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x71ffc3+65331]
+	GetHandleVerifier [0x0x720004+65396]
+	(No symbol) [0x0x513f63]
+	(No symbol) [0x0x55c99e]
+	(No symbol) [0x0x55cd3b]
+	(No symbol) [0x0x5a53d2]
+	(No symbol) [0x0x581524]
+	(No symbol) [0x0x5a2bcb]
+	(No symbol) [0x0x5812d6]
+	(No symbol) [0x0x550910]
+	(No symbol) [0x0x551784]
+	GetHandleVerifier [0x0x9638b3+2439203]
+	GetHandleVerifier [0x0x95eae2+2419282]
+	GetHandleVerifier [0x0x74712a+225434]
+	GetHandleVerifier [0x0x736e08+159096]
+	GetHandleVerifier [0x0x73dd5d+187597]
+	GetHandleVerifier [0x0x727ad8+96840]
+	GetHandleVerifier [0x0x727c62+97234]
+	GetHandleVerifier [0x0x71277a+9962]
+	BaseThreadInitThunk [0x0x76ec5d49+25]
+	RtlInitializeExceptionChain [0x0x7795d2fb+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7795d281+561]
+
+2025-08-20 10:04:34,640 - INFO - ====== WebDriver manager ======
+2025-08-20 10:04:35,775 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:04:36,197 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:04:36,576 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:04:38,578 - INFO - Starting bot for Fairholme
+2025-08-20 10:04:38,579 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:05:09,251 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:05:10,358 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:05:11,465 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:05:16,540 - INFO - Login successful!
+2025-08-20 10:05:16,540 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:05:16,541 - INFO - Navigating to Fairholme...
+2025-08-20 10:05:21,425 - INFO - Successfully navigated to campground page
+2025-08-20 10:05:24,859 - INFO - Selected dates: August 23, 2025 to August 30, 2025
+2025-08-20 10:05:24,859 - INFO - Looking for available spots on the page...
+2025-08-20 10:05:27,907 - INFO - Found available spot: Aug 25, 2025 - Site 83 is available
+2025-08-20 10:05:27,910 - INFO - Found available spot: Aug 26, 2025 - Site 83 is available
+2025-08-20 10:05:27,913 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:05:27,918 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:05:27,946 - INFO - Found available spot: Aug 25, 2025 - Site 37 is available
+2025-08-20 10:05:27,952 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:05:27,998 - INFO - Found available spot: Aug 27, 2025 - Site 18 is available
+2025-08-20 10:05:28,040 - INFO - Found available spot: Aug 26, 2025 - Site 31 is available
+2025-08-20 10:05:31,143 - INFO - 
+============================================================
+2025-08-20 10:05:31,143 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:05:31,143 - INFO - ============================================================
+2025-08-20 10:05:31,143 - INFO - Site       Date         Details
+2025-08-20 10:05:31,143 - INFO - ------------------------------------------------------------
+2025-08-20 10:05:31,143 - INFO - 83         Aug 25, 2025 Aug 25, 2025 - Site 83 is available
+2025-08-20 10:05:31,143 - INFO - 83         Aug 26, 2025 Aug 26, 2025 - Site 83 is available
+2025-08-20 10:05:31,144 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:05:31,144 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:05:31,144 - INFO - 37         Aug 25, 2025 Aug 25, 2025 - Site 37 is available
+2025-08-20 10:05:31,144 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:05:31,144 - INFO - 18         Aug 27, 2025 Aug 27, 2025 - Site 18 is available
+2025-08-20 10:05:31,144 - INFO - 31         Aug 26, 2025 Aug 26, 2025 - Site 31 is available
+2025-08-20 10:05:31,144 - INFO - ============================================================
+2025-08-20 10:05:31,144 - INFO - Total available sites: 8
+2025-08-20 10:05:31,144 - INFO - [32mFound 8 available spots![0m
+2025-08-20 10:05:31,145 - INFO - Attempting to book Site 83 for Aug 25, 2025
+2025-08-20 10:05:37,270 - INFO - Successfully clicked on Site 83
+2025-08-20 10:05:37,270 - INFO - [32mSelected campsite, now adding to cart...[0m
+2025-08-20 10:05:47,443 - INFO - Found Add to Cart button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-20 10:05:50,530 - INFO - Clicked Add to Cart button
+2025-08-20 10:05:50,531 - INFO - [32mSuccessfully added campsite to cart! Stopping execution but keeping browser open...[0m
+2025-08-20 10:05:50,531 - INFO - [32mTask completed successfully! Browser will remain open.[0m
+2025-08-20 10:05:50,531 - INFO - You can now manually complete the checkout process.
+2025-08-20 10:19:48,358 - INFO - ====== WebDriver manager ======
+2025-08-20 10:19:49,486 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:19:49,900 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:19:50,320 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:19:52,388 - INFO - Starting bot for Fairholme
+2025-08-20 10:19:52,388 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:20:02,944 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:20:04,077 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:20:05,210 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:20:10,285 - INFO - Login successful!
+2025-08-20 10:20:10,285 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:20:10,286 - INFO - Navigating to Fairholme...
+2025-08-20 10:20:15,287 - INFO - Successfully navigated to campground page
+2025-08-20 10:20:18,695 - INFO - Selected dates: August 23, 2025 to August 30, 2025
+2025-08-20 10:20:18,695 - INFO - Looking for available spots on the page...
+2025-08-20 10:20:21,780 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:20:21,792 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:20:21,829 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:20:24,994 - INFO - 
+============================================================
+2025-08-20 10:20:24,995 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:20:24,995 - INFO - ============================================================
+2025-08-20 10:20:24,995 - INFO - Site       Date         Details
+2025-08-20 10:20:24,995 - INFO - ------------------------------------------------------------
+2025-08-20 10:20:24,995 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:20:24,995 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:20:24,995 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:20:24,995 - INFO - ============================================================
+2025-08-20 10:20:24,995 - INFO - Total available sites: 3
+2025-08-20 10:20:24,996 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:20:24,996 - ERROR - Error checking availability: 'BookingHandler' object has no attribute 'book_first_available'
+2025-08-20 10:20:24,996 - INFO - Waiting 30 seconds...
+2025-08-20 10:20:54,996 - INFO - Looking for available spots on the page...
+2025-08-20 10:20:58,056 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:20:58,065 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:20:58,108 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:21:01,444 - INFO - 
+============================================================
+2025-08-20 10:21:01,445 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:21:01,445 - INFO - ============================================================
+2025-08-20 10:21:01,445 - INFO - Site       Date         Details
+2025-08-20 10:21:01,445 - INFO - ------------------------------------------------------------
+2025-08-20 10:21:01,445 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:21:01,445 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:21:01,445 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:21:01,445 - INFO - ============================================================
+2025-08-20 10:21:01,446 - INFO - Total available sites: 3
+2025-08-20 10:21:01,446 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:21:01,446 - ERROR - Error checking availability: 'BookingHandler' object has no attribute 'book_first_available'
+2025-08-20 10:21:01,446 - INFO - Waiting 30 seconds...
+2025-08-20 10:21:31,446 - INFO - Looking for available spots on the page...
+2025-08-20 10:21:34,502 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:21:34,511 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:21:34,552 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:21:37,753 - INFO - 
+============================================================
+2025-08-20 10:21:37,753 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:21:37,754 - INFO - ============================================================
+2025-08-20 10:21:37,754 - INFO - Site       Date         Details
+2025-08-20 10:21:37,754 - INFO - ------------------------------------------------------------
+2025-08-20 10:21:37,754 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:21:37,754 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:21:37,754 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:21:37,754 - INFO - ============================================================
+2025-08-20 10:21:37,755 - INFO - Total available sites: 3
+2025-08-20 10:21:37,755 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:21:37,755 - ERROR - Error checking availability: 'BookingHandler' object has no attribute 'book_first_available'
+2025-08-20 10:21:37,755 - INFO - Waiting 30 seconds...
+2025-08-20 10:22:07,756 - INFO - Looking for available spots on the page...
+2025-08-20 10:22:10,812 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:22:10,821 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:22:10,859 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:22:14,068 - INFO - 
+============================================================
+2025-08-20 10:22:14,068 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:22:14,068 - INFO - ============================================================
+2025-08-20 10:22:14,069 - INFO - Site       Date         Details
+2025-08-20 10:22:14,069 - INFO - ------------------------------------------------------------
+2025-08-20 10:22:14,069 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:22:14,069 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:22:14,069 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:22:14,069 - INFO - ============================================================
+2025-08-20 10:22:14,069 - INFO - Total available sites: 3
+2025-08-20 10:22:14,069 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:22:14,070 - ERROR - Error checking availability: 'BookingHandler' object has no attribute 'book_first_available'
+2025-08-20 10:22:14,070 - INFO - Waiting 30 seconds...
+2025-08-20 10:22:16,346 - INFO - Stopped by user
+2025-08-20 10:22:16,350 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/be8f002342ae164e8154f63141ecbb38
+2025-08-20 10:22:24,377 - INFO - ====== WebDriver manager ======
+2025-08-20 10:22:25,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:22:25,888 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:22:26,281 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:22:28,154 - INFO - Starting bot for Fairholme
+2025-08-20 10:22:28,155 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:22:38,972 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:22:40,088 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:22:41,202 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:22:46,276 - INFO - Login successful!
+2025-08-20 10:22:46,277 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:22:46,277 - INFO - Navigating to Fairholme...
+2025-08-20 10:22:51,167 - INFO - Successfully navigated to campground page
+2025-08-20 10:22:54,590 - INFO - Selected dates: August 23, 2025 to August 30, 2025
+2025-08-20 10:22:54,591 - INFO - Looking for available spots on the page...
+2025-08-20 10:22:57,653 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:22:57,663 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:22:57,709 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:23:00,958 - INFO - 
+============================================================
+2025-08-20 10:23:00,958 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:23:00,958 - INFO - ============================================================
+2025-08-20 10:23:00,958 - INFO - Site       Date         Details
+2025-08-20 10:23:00,959 - INFO - ------------------------------------------------------------
+2025-08-20 10:23:00,959 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:23:00,959 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:23:00,959 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:23:00,959 - INFO - ============================================================
+2025-08-20 10:23:00,959 - INFO - Total available sites: 3
+2025-08-20 10:23:00,960 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:23:00,960 - ERROR - Error checking availability: type object 'Config' has no attribute 'PREFERRED_DATE'
+2025-08-20 10:23:00,960 - INFO - Waiting 30 seconds...
+2025-08-20 10:23:30,960 - INFO - Looking for available spots on the page...
+2025-08-20 10:23:34,024 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:23:34,034 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:23:34,074 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:23:37,173 - INFO - 
+============================================================
+2025-08-20 10:23:37,173 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:23:37,173 - INFO - ============================================================
+2025-08-20 10:23:37,173 - INFO - Site       Date         Details
+2025-08-20 10:23:37,173 - INFO - ------------------------------------------------------------
+2025-08-20 10:23:37,173 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:23:37,173 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:23:37,174 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:23:37,174 - INFO - ============================================================
+2025-08-20 10:23:37,174 - INFO - Total available sites: 3
+2025-08-20 10:23:37,174 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:23:37,174 - ERROR - Error checking availability: type object 'Config' has no attribute 'PREFERRED_DATE'
+2025-08-20 10:23:37,174 - INFO - Waiting 30 seconds...
+2025-08-20 10:23:44,374 - INFO - Stopped by user
+2025-08-20 10:23:44,376 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/d76f9fbedf94766165644f3ef6d78afe
+2025-08-20 10:23:48,421 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016A12BFF890>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d76f9fbedf94766165644f3ef6d78afe
+2025-08-20 10:23:52,504 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016A12BFE210>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d76f9fbedf94766165644f3ef6d78afe
+2025-08-20 10:27:09,891 - INFO - ====== WebDriver manager ======
+2025-08-20 10:27:11,116 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:27:11,574 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:27:12,064 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:27:14,079 - INFO - Starting bot for Fairholme
+2025-08-20 10:27:14,079 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:27:24,015 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:27:25,157 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:27:26,294 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:27:31,395 - INFO - Login successful!
+2025-08-20 10:27:31,395 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:27:31,396 - INFO - Navigating to Fairholme...
+2025-08-20 10:27:36,472 - INFO - Successfully navigated to campground page
+2025-08-20 10:27:39,951 - INFO - Selected dates: August 23, 2025 to August 30, 2025
+2025-08-20 10:27:39,951 - INFO - Looking for available spots on the page...
+2025-08-20 10:27:43,021 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:27:43,030 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:27:43,072 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:27:46,638 - INFO - 
+============================================================
+2025-08-20 10:27:46,638 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:27:46,639 - INFO - ============================================================
+2025-08-20 10:27:46,639 - INFO - Site       Date         Details
+2025-08-20 10:27:46,639 - INFO - ------------------------------------------------------------
+2025-08-20 10:27:46,639 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:27:46,639 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:27:46,639 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:27:46,639 - INFO - ============================================================
+2025-08-20 10:27:46,639 - INFO - Total available sites: 3
+2025-08-20 10:27:46,640 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:27:46,640 - ERROR - Error checking availability: 'Logger' object is not callable
+2025-08-20 10:27:46,640 - INFO - Waiting 30 seconds...
+2025-08-20 10:28:16,640 - INFO - Looking for available spots on the page...
+2025-08-20 10:28:19,707 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:28:19,717 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:28:19,759 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:28:23,147 - INFO - 
+============================================================
+2025-08-20 10:28:23,147 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:28:23,148 - INFO - ============================================================
+2025-08-20 10:28:23,148 - INFO - Site       Date         Details
+2025-08-20 10:28:23,148 - INFO - ------------------------------------------------------------
+2025-08-20 10:28:23,148 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:28:23,148 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:28:23,148 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:28:23,149 - INFO - ============================================================
+2025-08-20 10:28:23,149 - INFO - Total available sites: 3
+2025-08-20 10:28:23,149 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:28:23,149 - ERROR - Error checking availability: 'Logger' object is not callable
+2025-08-20 10:28:23,149 - INFO - Waiting 30 seconds...
+2025-08-20 10:28:41,112 - INFO - Stopped by user
+2025-08-20 10:28:41,115 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/8215594d027e1cc883fe598b855c0700
+2025-08-20 10:28:50,191 - INFO - ====== WebDriver manager ======
+2025-08-20 10:28:51,611 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:28:52,113 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:28:52,580 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:28:54,656 - INFO - Starting bot for Fairholme
+2025-08-20 10:28:54,656 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:29:04,770 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:29:05,915 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:29:07,063 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:29:12,140 - INFO - Login successful!
+2025-08-20 10:29:12,140 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:29:12,141 - INFO - Navigating to Fairholme...
+2025-08-20 10:29:17,176 - INFO - Successfully navigated to campground page
+2025-08-20 10:29:20,613 - INFO - Selected dates: August 23, 2025 to August 30, 2025
+2025-08-20 10:29:20,613 - INFO - Looking for available spots on the page...
+2025-08-20 10:29:23,686 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:29:23,697 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:29:23,748 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:29:27,108 - INFO - 
+============================================================
+2025-08-20 10:29:27,108 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:29:27,108 - INFO - ============================================================
+2025-08-20 10:29:27,108 - INFO - Site       Date         Details
+2025-08-20 10:29:27,108 - INFO - ------------------------------------------------------------
+2025-08-20 10:29:27,109 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:29:27,109 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:29:27,109 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:29:27,109 - INFO - ============================================================
+2025-08-20 10:29:27,109 - INFO - Total available sites: 3
+2025-08-20 10:29:27,109 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:29:27,109 - ERROR - Error checking availability: 'Logger' object is not callable
+2025-08-20 10:29:27,109 - INFO - Waiting 30 seconds...
+2025-08-20 10:29:57,110 - INFO - Looking for available spots on the page...
+2025-08-20 10:30:00,210 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:30:00,224 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:30:00,273 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:30:03,814 - INFO - 
+============================================================
+2025-08-20 10:30:03,815 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:30:03,815 - INFO - ============================================================
+2025-08-20 10:30:03,815 - INFO - Site       Date         Details
+2025-08-20 10:30:03,815 - INFO - ------------------------------------------------------------
+2025-08-20 10:30:03,815 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:30:03,815 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:30:03,816 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:30:03,816 - INFO - ============================================================
+2025-08-20 10:30:03,816 - INFO - Total available sites: 3
+2025-08-20 10:30:03,816 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:30:03,816 - ERROR - Error checking availability: 'Logger' object is not callable
+2025-08-20 10:30:03,816 - INFO - Waiting 30 seconds...
+2025-08-20 10:30:33,817 - INFO - Looking for available spots on the page...
+2025-08-20 10:30:36,886 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:30:36,896 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:30:36,934 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:30:40,036 - INFO - 
+============================================================
+2025-08-20 10:30:40,036 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:30:40,037 - INFO - ============================================================
+2025-08-20 10:30:40,037 - INFO - Site       Date         Details
+2025-08-20 10:30:40,037 - INFO - ------------------------------------------------------------
+2025-08-20 10:30:40,037 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:30:40,037 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:30:40,037 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:30:40,037 - INFO - ============================================================
+2025-08-20 10:30:40,037 - INFO - Total available sites: 3
+2025-08-20 10:30:40,038 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:30:40,038 - ERROR - Error checking availability: 'Logger' object is not callable
+2025-08-20 10:30:40,038 - INFO - Waiting 30 seconds...
+2025-08-20 10:31:03,777 - INFO - Stopped by user
+2025-08-20 10:31:03,781 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/9dd22651fa737588f43d4d6feb9806ce
+2025-08-20 10:31:07,795 - INFO - ====== WebDriver manager ======
+2025-08-20 10:31:09,062 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:31:09,508 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:31:09,970 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:31:21,976 - INFO - ====== WebDriver manager ======
+2025-08-20 10:31:23,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:31:23,469 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:31:23,902 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:31:25,847 - INFO - Starting bot for Fairholme
+2025-08-20 10:31:25,847 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:31:35,800 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:31:36,943 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:31:38,064 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:31:43,138 - INFO - Login successful!
+2025-08-20 10:31:43,138 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:31:43,138 - INFO - Navigating to Fairholme...
+2025-08-20 10:31:47,997 - INFO - Successfully navigated to campground page
+2025-08-20 10:31:51,412 - INFO - Selected dates: August 23, 2025 to August 30, 2025
+2025-08-20 10:31:51,413 - INFO - Looking for available spots on the page...
+2025-08-20 10:31:54,476 - INFO - Found available spot: Aug 27, 2025 - Site 83 is available
+2025-08-20 10:31:54,485 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:31:54,520 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:31:57,582 - INFO - 
+============================================================
+2025-08-20 10:31:57,583 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:31:57,583 - INFO - ============================================================
+2025-08-20 10:31:57,583 - INFO - Site       Date         Details
+2025-08-20 10:31:57,583 - INFO - ------------------------------------------------------------
+2025-08-20 10:31:57,583 - INFO - 83         Aug 27, 2025 Aug 27, 2025 - Site 83 is available
+2025-08-20 10:31:57,583 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:31:57,583 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:31:57,584 - INFO - ============================================================
+2025-08-20 10:31:57,584 - INFO - Total available sites: 3
+2025-08-20 10:31:57,584 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:31:57,584 - INFO - Attempting to book Site 37 for Aug 26, 2025
+2025-08-20 10:32:03,730 - INFO - Successfully clicked on Site 37
+2025-08-20 10:32:03,730 - INFO - [32mSelected campsite, now adding to cart...[0m
+2025-08-20 10:32:13,929 - INFO - Found Add to Cart button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-20 10:32:17,016 - INFO - Clicked Add to Cart button
+2025-08-20 10:32:17,017 - INFO - [32mSuccessfully added campsite to cart! Stopping execution but keeping browser open...[0m
+2025-08-20 10:32:17,017 - INFO - [32mTask completed successfully! Browser will remain open.[0m
+2025-08-20 10:32:17,017 - INFO - You can now manually complete the checkout process.
+2025-08-20 10:33:56,454 - INFO - ====== WebDriver manager ======
+2025-08-20 10:33:57,589 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:33:58,086 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-20 10:33:58,494 - INFO - Driver [C:\Users\linhp\.wdm\drivers\chromedriver\win64\139.0.7258.138\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-20 10:34:00,449 - INFO - Starting bot for Fairholme
+2025-08-20 10:34:00,449 - INFO - Attempting to login to Recreation.gov...
+2025-08-20 10:34:10,286 - INFO - Found username field using selector: ('id', 'email')
+2025-08-20 10:34:11,436 - INFO - Found password field using selector: ('css selector', "input[type='password']")
+2025-08-20 10:34:12,561 - INFO - Found login button using selector: ('css selector', 'button.rec-acct-sign-in-btn')
+2025-08-20 10:34:17,634 - INFO - Login successful!
+2025-08-20 10:34:17,634 - INFO - [32mLogin successful! Starting checks...[0m
+2025-08-20 10:34:17,635 - INFO - Navigating to Fairholme...
+2025-08-20 10:34:22,570 - INFO - Successfully navigated to campground page
+2025-08-20 10:34:25,988 - INFO - Selected dates: August 23, 2025 to August 30, 2025
+2025-08-20 10:34:25,988 - INFO - Looking for available spots on the page...
+2025-08-20 10:34:29,047 - INFO - Found available spot: Aug 25, 2025 - Site 37 is available
+2025-08-20 10:34:29,059 - INFO - Found available spot: Aug 26, 2025 - Site 37 is available
+2025-08-20 10:34:29,113 - INFO - Found available spot: Aug 28, 2025 - Site 83 is available
+2025-08-20 10:34:32,226 - INFO - 
+============================================================
+2025-08-20 10:34:32,227 - INFO - AVAILABLE CAMPSITES FOUND:
+2025-08-20 10:34:32,227 - INFO - ============================================================
+2025-08-20 10:34:32,227 - INFO - Site       Date         Details
+2025-08-20 10:34:32,227 - INFO - ------------------------------------------------------------
+2025-08-20 10:34:32,227 - INFO - 37         Aug 25, 2025 Aug 25, 2025 - Site 37 is available
+2025-08-20 10:34:32,227 - INFO - 37         Aug 26, 2025 Aug 26, 2025 - Site 37 is available
+2025-08-20 10:34:32,227 - INFO - 83         Aug 28, 2025 Aug 28, 2025 - Site 83 is available
+2025-08-20 10:34:32,227 - INFO - ============================================================
+2025-08-20 10:34:32,228 - INFO - Total available sites: 3
+2025-08-20 10:34:32,228 - INFO - [32mFound 3 available spots![0m
+2025-08-20 10:34:32,228 - INFO - Attempting to book Site 37 for Aug 26, 2025
+2025-08-20 10:34:38,380 - INFO - Successfully clicked on Site 37
+2025-08-20 10:34:38,380 - INFO - [32mSelected campsite, now adding to cart...[0m
+2025-08-20 10:34:48,544 - INFO - Found Add to Cart button using selector: ('css selector', 'button.availability-page-book-now-button-tracker')
+2025-08-20 10:34:52,676 - INFO - Clicked Add to Cart button
+2025-08-20 10:34:52,676 - INFO - [32mSuccessfully added campsite to cart! Stopping execution but keeping browser open...[0m
+2025-08-20 10:34:52,676 - INFO - [32mTask completed successfully! Browser will remain open.[0m
+2025-08-20 10:34:52,677 - INFO - You can now manually complete the checkout process.

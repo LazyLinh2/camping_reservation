@@ -1,0 +1,3 @@
+# Recreation.gov Credentials
+RECREATION_USERNAME=your_email@example.com
+RECREATION_PASSWORD=your_password
